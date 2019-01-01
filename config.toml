@@ -1,0 +1,30 @@
+baseurl = "https://patristictextarchive.github.io/"
+languageCode = "en-us"
+title = "Patristic Text Archive"
+theme = "hugo-cards-avs"
+paginate = 6
+
+[params]
+  builtBy = "Annette von Stockhausen"
+  defaultImage = "image-2.png"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = "https://github.com/PatristicTextArchive"
+  email = "annette.von_stockhausen@bbaw.de"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Akademienvorhaben Die alexandrinische und antiochenische Bibelexegese in der Spätantike"
+     link = "https://bibelexegese.bbaw.de"
+
+[taxonomies]
+  tag = "tags"

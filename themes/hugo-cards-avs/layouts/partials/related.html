@@ -1,0 +1,13 @@
+
+ <div class="mt10 recent">
+{{ $related := .Site.RegularPages.RelatedTo ( keyVals "tags" "documentation")}}
+{{ with $related }}
+<h3>See Also</h3>
+<ul>
+	{{ range . }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+</ul>
+{{ end }}
+</div>
+
