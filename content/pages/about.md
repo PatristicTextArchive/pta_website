@@ -14,6 +14,8 @@ Exact bibliographic information on the edition used is to be found in the metada
 
 All texts are licensed by a [Creative Commons Licence](https://creativecommons.org/) for use and re-use.^[The relevant licence for each text is noted at the respective author page and in the XML-file.] All texts are encoded as XML files and according to the [Guidelines for Electronic Text Encoding and Interchange (in version P5) of the Text Encoding Initiative (TEI)](http://www.tei-c.org/) following a [schema](/pages/encoding) built upon the [EpiDoc-Guidelines](http://www.stoa.org/epidoc/gl/latest/). To ensure further interoperability all files follow the [CapiTainS Guidelines](http://capitains.org).
 
+To provide users with easy access to the texts (besides the repository), all texts are also available in a simple reading interface (thanks to the project [Capitains Nemo](https://github.com/Capitains/flask-capitains-nemo)), which will be enhanced with more functionality as soon as possible. Links to the reader are given at the author pages as “Read Online” (cf. for example the page of [Dokumente zur Geschichte des arianischen Streites](/posts/pta0100)).
+
 As far as possible the texts are based on critical editions and are provided together with the textcritical information, but if that is not possible, older and/or non-critical editions are also provided.
 
 The author pages (cf. for example the page of [Severian of Gabala](/posts/pta0001)) show the quality of the editions provided for each text with the following badges: 
